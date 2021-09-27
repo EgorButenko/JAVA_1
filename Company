@@ -1,3 +1,8 @@
+/**
+Java 1 Home Work 5
+@author Egor Butenko
+@version 26.09.2021
+*/
 class Company{
 	public static void main(String[] args){
 		Employee[] empArray = new Employee[5];
