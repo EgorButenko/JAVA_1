@@ -3,7 +3,7 @@
 	@author Egor Butenko
 	@version 20.09.21
 */
-public class HomeWorkApp {
+public class Lesson1 {
 	public static void main(String[] args){
 		printThreeWords();
 		checkSumSign();
