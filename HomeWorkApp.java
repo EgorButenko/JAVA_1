@@ -1,3 +1,9 @@
+/**
+Java 1 Home Work 3
+@author Egor Butenko
+@version 28.09.2021
+*/
+
 class HomeWorkApp{
 	
 	public static void main(String[] args){
