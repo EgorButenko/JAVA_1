@@ -7,7 +7,7 @@ Java 1 Home Work 3
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class HomeWorkApp{
+public class Lesson3{
 	
 	public static Scanner sc = new Scanner(System.in);
 	
