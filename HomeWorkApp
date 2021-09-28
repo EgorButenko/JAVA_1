@@ -1,0 +1,28 @@
+class HomeWorkApp{
+	
+	public static void main(String[] args){
+		
+		Cat cat1 = new Cat("Barsic", "White", 3);
+		Cat cat2 = new Cat("Murzic", "Brown", 8);
+		Cat cat3 = new Cat("Kuzya", "Black", 4);
+		
+		Dog dog1 = new Dog("Tobic", "White", 2);
+		Dog dog2 = new Dog("Muhtar", "Brown", 7);
+		Dog dog3 = new Dog("Sharic", "Black", 5);
+		
+		cat1.run(199);
+		cat1.run(200);
+		cat1.run(500);
+		
+		cat1.swim(1);
+		
+		dog1.run(499);
+		dog2.run(500);
+		dog3.run(1000);
+		
+		dog1.swim(9);
+		dog2.swim(10);
+		dog3.swim(100);
+	}
+	
+}
