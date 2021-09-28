@@ -1,3 +1,9 @@
+/**
+Java 1 Home Work 4
+@author Egor Butenko
+@version 23.09.2021
+*/
+
 import java.util.Random;
 import java.util.Scanner;
 
